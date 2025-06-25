@@ -3,6 +3,7 @@
 Welcome to my personal portfolio! Built with HTML5 and CSS3, this site showcases who I am, what I’ve built, and how to get in touch.
 
 ✨ Features
+
 💻 Clean, responsive design
 👩‍💻 About Me & skills overview
 📂 Showcase of key projects
